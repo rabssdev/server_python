@@ -1,0 +1,7 @@
+flask
+librosa
+pydub
+numpy
+websockets
+gunicorn
+ffmpeg-python
